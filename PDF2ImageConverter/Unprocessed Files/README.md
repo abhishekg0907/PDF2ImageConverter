@@ -1,0 +1,1 @@
+# This folder contains Unprocessed 'PDF Files', waiting to be converted into Processed 'JPEG' images.
