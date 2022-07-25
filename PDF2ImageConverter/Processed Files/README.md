@@ -1,0 +1,1 @@
+# This folder will have Processed 'JPEG' images, after successful completion of program.
