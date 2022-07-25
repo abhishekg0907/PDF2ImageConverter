@@ -4,4 +4,4 @@
 ```
 https://drive.google.com/file/d/1ZoSyMr1dvCv5nxJ-mArePm2V46FH6sxk/view
 ```
-__**Note**__ ```The given directory path in the code is of my local storage``` 
+__**Note**__ : ```The given directory path in the code is of my local storage``` 
